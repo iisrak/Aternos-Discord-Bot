@@ -1,5 +1,5 @@
 # Aternos-Discord-Bot
-A discord bot to run or stop or more on Aternos. 
+A discord bot to run or stop or more on Aternos.\n
 Credits to https://github.com/Duerocraft/AternosAPI for API.
 API has been modded a bit with a bit more information.
 
