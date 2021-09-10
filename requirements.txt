@@ -1,0 +1,5 @@
+requests
+discord.py
+beautifulsoup4
+discord
+AternosAPI
