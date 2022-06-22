@@ -18,4 +18,3 @@ Discord: Laxion#7115
 DM me for help if necessary.
 
 Updated 10/09/2021
-Tutorial being made soon.
