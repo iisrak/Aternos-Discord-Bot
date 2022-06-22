@@ -14,7 +14,7 @@ Headers Cookie (https://www.youtube.com/watch?v=wGM9V9tHJ2o)
 Token (Watch the video and learn about ASEC. The token will be underneath the ASEC one. If help needed add on discord.)
 
 # Info
-Discord: Laxion#7115  
+Discord: Laxion#1378  
 DM me for help if necessary.
 
 Updated 10/09/2021
