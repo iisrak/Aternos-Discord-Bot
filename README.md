@@ -11,7 +11,7 @@ requests module (python -m pip install requests)
 cloudscraper module (python -m pip install cloudscraper)     
 Discord bot token (https://www.youtube.com/watch?v=nW8c7vT6Hl4)  
 Headers Cookie (https://www.youtube.com/watch?v=wGM9V9tHJ2o)  
-Token (Watch the video and learn about ASEC. The token will be underneath the ASEC one. If help needed add on discord.)
+Token (Watch the video and learn about ASEC. The token will be underneath the ASEC one.)
 
 # Info
 Updated 10/09/2021
